@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "My Baby Wrote Me A Letter",
+    "file": "samples/my_baby_wrote_me_a_letter.mp3",
+    "bpm": "90",
+    "loop": "2m"
+  },
+  {
+    "name": "Spiritual Eternal",
+    "file": "samples/spiritual_eternal.mp3",
+    "bpm": "63",
+    "loop": "4m"
+  },
+  {
+    "name": "Get Up and Boogie",
+    "file": "samples/get_up_and_boogie.mp3",
+    "bpm": "105",
+    "loop": "2m"
+  },
+  {
+    "name": "Can You Say Mighty Mighty",
+    "file": "samples/theres_a_thousand_people_out_here_watching.mp3",
+    "bpm": "90",
+    "loop": "4m"
+  },
+  {
+    "name": "MIGHTY MIGHTY!",
+    "file": "samples/mighty_mighty_chorus.mp3",
+    "bpm": "90",
+    "loop": "4m"
+  }
+]
